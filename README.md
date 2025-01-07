@@ -1,16 +1,12 @@
 ## Hi there 👋
-
-<!--
-**Victoire-TG/Victoire-TG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is Victoire TIGUE, I am a student in a Bachelor in Banking, Finance and Digital From Togo.
+- 🔭I'm also learner in SAYNA digital school. It is a plateform to learn about digital
+- 😄 I’m interested in fintech innovations and digital banking solutions, am not a developper
+- 🌱 I’m currently learning all subject relative to marketing digital in SAYNA
+- 👯 I’m looking to collaborate on communication ang digital management project in the world
+- 🤔 I’m ready to learn all subjects about digital.
+- 
+- How to reach me: vickytigerjesus@gmail.com 
+- 📫 More about me: www.linkedin.com/in/victoire-essozolim-tigue-821a82283
+- 
+--> To the pleasure to collaborating together
